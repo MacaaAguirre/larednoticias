@@ -1130,7 +1130,7 @@ tr:nth-child(even){
 
 .slick{
   position: relative;
-  width: 305px;
+  width: 295px;
   padding: 0 18px;
   float: left;
   box-sizing: border-box;
@@ -1140,8 +1140,8 @@ tr:nth-child(even){
 
 .slick a iframe{
   object-fit: cover;
-  width: 255px;
-  width: 100%;
+  width: 245px;
+
   border-radius: 15px;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,.5);
   transition: .3s ease-in-out;
